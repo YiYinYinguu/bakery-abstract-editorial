@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bakery Abstract Editorial"
+  short_description: "Create recognizable abstract bakery editorials"
+  default_prompt: "Use $bakery-abstract-editorial to turn this bakery photo into a recognizable abstract editorial."
